@@ -1,24 +1,6 @@
 # V2
 
-A minmial tool set for 2D vector arithmetic for Node and the browser.
-
-## Setup
-
----
-
-In your console.
-
-```js
-npm i V2
-```
-
-In your source code.
-
-```js
-import { radToDeg } from "v2"
-
-radToDeg(1) // 57.29578
-```
+2D vector arithmetic for Node and the browser.
 
 ## Usage
 
